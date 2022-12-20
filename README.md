@@ -27,4 +27,4 @@
  
 </table>
 
-<img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 100% align = top>
+<img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 50px align = top>
