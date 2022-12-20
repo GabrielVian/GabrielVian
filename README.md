@@ -25,7 +25,6 @@
   </h1>
  </td>
  
- </tr>
  
 </table>
 <h1 align= center>
