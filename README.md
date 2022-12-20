@@ -26,5 +26,6 @@
  </tr>
  
 </table>
-
+<center>
 <img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 50px align = center>
+</center>
