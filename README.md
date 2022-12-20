@@ -20,11 +20,11 @@
  </td>
     
  <td rowspan = 3>
-  <img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053476404412559410/sakura.png" width = 100% align = top>
+  <img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054906228913999882/oie_tXqhRkCss9de.gif" width = 100% align = top>
  </td>
  
  </tr>
  
 </table>
 
-<img src= "https://cdn.discordapp.com/attachments/769287623621214220/1053430594115227749/oie_162253410qA5r9yO.gif" width = 100% align = top>
+<img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 100% align = top>
