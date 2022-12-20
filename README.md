@@ -11,20 +11,20 @@
     <td width = 200px><p align = top>Programador e desenvolvedor front-end, amante do javascript e tudo que envolve a web. Fascinado em aprender mais e crescer trabalhando com equipes.</p></td>
     </tr>
     <tr> 
-    <td><img src= "https://s9.gifyu.com/images/Linkedin-Logo.png" align = top><sub><a href="https://www.linkedin.com/in/gabriel-vian-ab838425a/"> https://www.linkedin.com/in/rafae...</a></sub></td>
+    <td><img src= "https://s9.gifyu.com/images/Linkedin-Logo.png" align = top><sub><a href="https://www.linkedin.com/in/gabriel-vian-ab838425a/"> https://www.linkedin.com/in/gabri...</a></sub></td>
     <td><img src= "https://s9.gifyu.com/images/Instagram-Logo.png" align = top><sub><a href="https://www.instagram.com/gabrieldvian/"> https://instagram....</a></sub></td>
     </tr>
   </table>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-rueda&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVian&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  </td>
     
  <td rowspan = 3>
-  <img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054906228913999882/oie_tXqhRkCss9de.gif" width = 100% align = top>
+  <img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054906228913999882/oie_tXqhRkCss9de.gif" width = 200% align = top>
  </td>
  
  </tr>
  
 </table>
 
-<img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 50px align = top>
+<img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054904363111420044/hamburger.gif" width = 50px align = center>
