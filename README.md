@@ -20,7 +20,9 @@
  </td>
     
  <td>
+  <h1>
   <img src= "https://cdn.discordapp.com/attachments/1017180488017903679/1054909493814767686/oie_7WU0MqVA4jG3.gif" width = 70%  align = center>
+  </h1>
  </td>
  
  </tr>
